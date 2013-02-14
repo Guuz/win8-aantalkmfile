@@ -1,2 +1,5 @@
 /aantalKmFile/*.user
 /*.suo
+
+/aantalKmFile/bin
+/aantalKmFile/bld
